@@ -1,3 +1,4 @@
+<img width="380" height="765" alt="Screenshot 2026-09-05 164442" src="https://github.com/user-attachments/assets/cb46a990-f711-4059-b609-2e325fec0701" />
 # nnews
 
 A new Flutter project.
